@@ -94,3 +94,4 @@ This project fulfills the requirements of the Aircraft Management System assignm
 - Custom exceptions for all business validation failures
 - Input validation with graceful error recovery
 - Separation of concerns: model / service / exception / main
+
